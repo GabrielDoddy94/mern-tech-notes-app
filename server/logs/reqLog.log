@@ -84,3 +84,13 @@
 20221006	16:45:20	e2f12557-6afc-4cad-817e-4e8e9b99ccff	GET	/users	undefined
 20221006	16:45:28	02b43631-e86e-46d6-bd5b-adfd23730958	DELETE	/users	undefined
 20221006	16:45:30	1ed9ac76-44a5-42b4-9e45-a0ace134ba5d	GET	/users	undefined
+20221008	15:41:46	64c5807c-3108-4ae9-90ac-11f9f6032203	GET	/users	http://localhost:3000
+20221008	15:42:10	4285c6b8-4aee-499c-8d32-db35c5647ea4	GET	/users	http://localhost:3000
+20221008	15:44:04	81d51292-d243-4795-a0ac-949ec90a6731	GET	/users	http://localhost:3000
+20221008	15:45:56	b28ef9cd-fa24-4520-9f29-4d70f1f18415	POST	/users	undefined
+20221008	15:46:11	f4317d6a-c420-4761-aad1-08174a3e1266	GET	/users	http://localhost:3000
+20221008	15:46:26	290e5280-cf70-4255-b62a-da6b6e08d7e0	GET	/users	http://localhost:3000
+20221008	15:47:54	f3379819-9a6c-4cd6-ac47-7f445346f733	POST	/users	undefined
+20221008	15:47:56	81682a36-43ac-461b-ad47-8fc667b9dcf5	GET	/users	http://localhost:3000
+20221008	15:48:17	6be72946-3e42-457b-9ea8-362af93097f8	POST	/users	undefined
+20221008	15:48:20	4cb2ff2c-54d3-4c9b-a877-17d877e06bfa	GET	/users	http://localhost:3000
