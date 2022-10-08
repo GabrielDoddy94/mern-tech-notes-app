@@ -1,5 +1,7 @@
 import { useGetNotesQuery } from "./notesApiSlice";
 
+import Note from "./Note";
+
 const NotesList = () => {
   const {
     data: notes,
@@ -14,7 +16,7 @@ const NotesList = () => {
   if (isLoading) content = <p>Loading...</p>;
 
   if (isError) {
-    content = <p className="errMsg">{error?.data?.message}</p>;
+    content = <p className="errmsg">{error?.data?.message}</p>;
   }
 
   if (isSuccess) {
@@ -29,7 +31,7 @@ const NotesList = () => {
         <thead className="table__thead">
           <tr>
             <th scope="col" className="table__th note__status">
-              Username
+              Status
             </th>
             <th scope="col" className="table__th note__created">
               Created
