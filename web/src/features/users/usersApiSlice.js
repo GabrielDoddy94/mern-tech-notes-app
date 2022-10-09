@@ -13,7 +13,6 @@ export const usersApiSlice = apiSlice.injectEndpoints({
       validateStatus: (response, result) => {
         return response.status === 200 && !result.isError;
       },
-      keepUnusedDataFor: 5,
       transformResponse: responseData => {
         const loadedUsers = responseData.map(user => {
           user.id = user._id;
@@ -24,7 +23,7 @@ export const usersApiSlice = apiSlice.injectEndpoints({
       providesTags: (result, error, arg) => {
         if (result?.ids) {
           return [
-            { type: "User", id: "List" },
+            { type: "User", id: "LIST" },
             ...result.ids.map(id => ({ type: "User", id })),
           ];
         } else {
