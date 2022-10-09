@@ -110,3 +110,7 @@
 20221008	16:30:04	bdd7c0f9-c755-47e0-9bbb-b9da0f2896a7	PATCH	/notes	undefined
 20221008	16:30:07	bae7f80b-87d0-47ba-9e1f-a961b61673be	GET	/notes	http://localhost:3000
 20221008	16:30:14	9fe38a43-d29a-4120-8b72-a2743b625f7e	GET	/users	http://localhost:3000
+20221008	16:33:46	5cf6248b-7b29-4f89-8e32-f7b1980489cb	GET	/notes	http://localhost:3000
+20221008	16:34:47	c7212d4b-f8f6-441f-a314-9e9a6dfcb943	POST	/notes	undefined
+20221008	16:34:56	c8523058-7e1f-4484-864d-5440eb99f225	POST	/notes	undefined
+20221008	16:35:06	5a9c7754-c839-46dc-a14b-855b08d7ad81	GET	/notes	http://localhost:3000
