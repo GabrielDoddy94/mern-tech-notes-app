@@ -9,7 +9,7 @@ import UsersList from "./features/users/UsersList";
 import NewUserForm from "./features/users/NewUserForm";
 import EditUser from "./features/users/EditUser";
 import NotesList from "./features/notes/NotesList";
-import NewNoteForm from "./features/notes/NewNoteForm";
+import NewNote from "./features/notes/NewNote";
 import EditNote from "./features/notes/EditNote";
 import Prefetch from "./features/auth/Prefetch";
 
@@ -32,7 +32,7 @@ function App() {
 
             <Route path="notes">
               <Route index element={<NotesList />} />
-              <Route path="new" element={<NewNoteForm />} />
+              <Route path="new" element={<NewNote />} />
               <Route path=":id" element={<EditNote />} />
             </Route>
           </Route>
