@@ -1,8 +1,9 @@
 const express = require("express");
 const router = express.Router();
 const authController = require("../controllers/authController");
+const loginLimiter = require("../middleware/loginLimit");
 
-router.route("/").post();
+router.route("/").post(loginLimiter);
 
 router.route("/refresh").get();
 
