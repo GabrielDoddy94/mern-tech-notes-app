@@ -340,3 +340,13 @@
 20221012	18:14:16	68580a7d-17be-42ff-aac5-3d91c6cbf0ac	GET	/notes	http://localhost:3000
 20221012	18:14:16	4effaadb-655b-4c76-92f4-7f99806d86cb	GET	/users	http://localhost:3000
 20221012	18:14:20	9a3adc73-26aa-4578-b534-1f11c3866b63	POST	/auth/logout	http://localhost:3000
+20221012	18:29:14	9279acbf-cb75-4038-b826-4321cd0f9bfe	OPTIONS	/auth	http://localhost:3000
+20221012	18:29:14	bcf3e8ba-822f-4841-b840-569798aa8dd5	POST	/auth	http://localhost:3000
+20221012	18:29:29	56c73004-01c4-4f91-b33a-3809320ea813	OPTIONS	/auth	http://localhost:3000
+20221012	18:29:29	9e4b2196-92b1-4ad2-bc7b-5639e82a78d2	POST	/auth	http://localhost:3000
+20221012	18:29:36	f29c0531-9e6f-4c74-b31d-bb368eaebec6	OPTIONS	/auth	http://localhost:3000
+20221012	18:29:36	bd7af466-8163-489b-aa33-ce7473f74ea6	POST	/auth	http://localhost:3000
+20221012	18:29:36	e21bdd4d-388d-4665-a2e0-dc8f239459f2	GET	/notes	http://localhost:3000
+20221012	18:29:36	592eae04-6cf0-413b-87f3-7aff18c0ba5e	GET	/users	http://localhost:3000
+20221012	18:29:39	68b4be7c-8a40-4c5e-a3ce-20d9e4602209	GET	/notes	http://localhost:3000
+20221012	18:29:44	e5c1c746-bfc1-4754-a065-f09244425c3d	GET	/users	http://localhost:3000
