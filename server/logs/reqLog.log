@@ -303,3 +303,14 @@
 20221009	16:04:23	709b112c-d756-433c-a0fa-3a74f1e73e4b	GET	/notes	http://localhost:3000
 20221009	16:04:40	c59b8e13-d37c-4547-bd8e-cc716e44dd20	GET	/notes	http://localhost:3000
 20221011	18:08:31	bf098245-f20b-4d78-8953-e327e87353c5	POST	/auth	undefined
+20221011	18:26:14	83e8a1c1-bc6e-43ef-b59b-538bd4c4b9e5	POST	/auth/refresh	undefined
+20221011	18:26:15	d9003125-0a4b-44c5-84be-af0933edd9ba	GET	/auth/css/style.css	undefined
+20221011	18:26:39	55fe68ad-93fa-4970-bcd7-599b17f591f9	GET	/auth/refresh	undefined
+20221011	18:28:25	481c8624-94d8-4998-95ca-aa6ff16c0319	POST	/auth/logout	undefined
+20221011	18:29:02	972e934b-9194-46dc-a9b2-34e372eb978b	POST	/auth/login	undefined
+20221011	18:29:03	9a31c3b1-d48e-4b5f-9233-60a7664f813e	GET	/auth/css/style.css	undefined
+20221011	18:29:20	5d55e591-e0e5-4167-8503-ee7ef1d620c7	POST	/auth	undefined
+20221011	18:31:42	ef2485a0-128d-4eb4-93b6-0749b62947ba	GET	/notes	undefined
+20221011	18:34:26	16133ae3-2e7f-4566-92c6-a3f81da9aa29	POST	/auth	undefined
+20221011	18:34:38	6329d1d1-eb9d-458a-be4d-69160009cb67	GET	/notes	undefined
+20221011	18:35:29	0eef047c-655e-4d8c-93ee-540abc9a6076	GET	/notes	undefined
