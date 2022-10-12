@@ -6,8 +6,10 @@ import { faSave } from "@fortawesome/free-solid-svg-icons";
 import { useAddNewNoteMutation } from "./notesApiSlice";
 
 const NewNoteForm = ({ users }) => {
-  const [addNewNote, { isLoading, isSuccess, isError, error }] =
-    useAddNewNoteMutation();
+  const [
+    addNewNote,
+    { isLoading, isSuccess, isError, error },
+  ] = useAddNewNoteMutation();
 
   const navigate = useNavigate();
 

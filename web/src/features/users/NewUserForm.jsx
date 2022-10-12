@@ -10,8 +10,10 @@ const USER_REGEX = /^[A-z]{3,20}$/;
 const PWD_REGEX = /^[A-z0-9!@#$%]{4,12}$/;
 
 const NewUserForm = () => {
-  const [addNewUser, { isLoading, isSuccess, isError, error }] =
-    useAddNewUserMutation();
+  const [
+    addNewUser,
+    { isLoading, isSuccess, isError, error },
+  ] = useAddNewUserMutation();
 
   const navigate = useNavigate();
 

@@ -314,3 +314,11 @@
 20221011	18:34:26	16133ae3-2e7f-4566-92c6-a3f81da9aa29	POST	/auth	undefined
 20221011	18:34:38	6329d1d1-eb9d-458a-be4d-69160009cb67	GET	/notes	undefined
 20221011	18:35:29	0eef047c-655e-4d8c-93ee-540abc9a6076	GET	/notes	undefined
+20221012	17:11:58	ae72a8f5-a3f9-4674-9316-5d176f9065ee	GET	/notes	http://localhost:3000
+20221012	17:11:58	eb205f24-285f-4994-b888-cf72730477f2	GET	/users	http://localhost:3000
+20221012	17:12:05	e2db9226-8ee5-41b0-9138-246d5ccaceca	GET	/users	http://localhost:3000
+20221012	17:12:13	35a0967d-2472-4317-84e2-063ba9768640	GET	/notes	http://localhost:3000
+20221012	17:14:03	80909b35-fb7c-4cdc-9e35-328b94d4d1c8	GET	/users	http://localhost:3000
+20221012	17:14:28	aa97c306-7b2d-4836-a08e-e3e5970a08c0	GET	/users	http://localhost:3000
+20221012	17:15:28	724aa08a-ad68-4a19-82de-34d5218180bb	GET	/users	http://localhost:3000
+20221012	17:15:42	57d49ef0-3adf-443a-b3a1-395be85237d1	GET	/users	http://localhost:3000

@@ -6,8 +6,10 @@ import { faSave, faTrashCan } from "@fortawesome/free-solid-svg-icons";
 import { useUpdateNoteMutation, useDeleteNoteMutation } from "./notesApiSlice";
 
 const EditNoteForm = ({ note, users }) => {
-  const [updateNote, { isLoading, isSuccess, isError, error }] =
-    useUpdateNoteMutation();
+  const [
+    updateNote,
+    { isLoading, isSuccess, isError, error },
+  ] = useUpdateNoteMutation();
 
   const [
     deleteNote,
