@@ -798,3 +798,8 @@
 20221015	15:42:43	0ca7e7fa-7075-4d4a-90c0-87e21207ad54	GET	/notes	http://localhost:3000
 20221015	15:42:45	3ee214e7-7def-4c69-8c43-00007e08b582	OPTIONS	/notes	http://localhost:3000
 20221015	15:42:45	b1ea1b9a-d71a-455d-a7ec-04ccd78d2dcc	GET	/notes	http://localhost:3000
+20221015	15:47:10	9a61e1f6-4a66-4116-b0cb-a9430146ea3a	OPTIONS	/auth/logout	http://localhost:3000
+20221015	15:47:10	1fdd8d3d-569f-4ea5-bb21-f16f17faacf9	POST	/auth/logout	http://localhost:3000
+20221015	15:47:17	97303ef8-c489-4ea3-8c3e-ddea5942261b	GET	/auth/refresh	http://localhost:3000
+20221015	15:48:59	9428c360-6dbf-4911-91c4-6665e1eedf1f	GET	/auth/refresh	http://localhost:3000
+20221015	15:49:01	84e10222-c2b9-4536-8b80-cd63ffacdf23	GET	/auth/refresh	http://localhost:3000
