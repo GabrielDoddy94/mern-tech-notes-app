@@ -1,5 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 
+import useTitle from "./hooks/useTitle";
+
 import { ROLES } from "./config/roles";
 import Layout from "./components/Layout";
 import Public from "./components/Public";
@@ -17,6 +19,8 @@ import NewNote from "./features/notes/NewNote";
 import EditNote from "./features/notes/EditNote";
 
 function App() {
+  useTitle("Dan D. Repairs");
+
   return (
     <Routes>
       <Route path="/" element={<Layout />}>

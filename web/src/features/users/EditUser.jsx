@@ -9,9 +9,9 @@ const EditUser = () => {
   const { id } = useParams();
 
   const { user } = useGetUsersQuery("usersList", {
-    selectFromResult: ({ data }) => {
-      user: data?.entities[id];
-    },
+    selectFromResult: ({ data }) => ({
+      user: data?.entities[id],
+    }),
   });
 
   if (!user) return <PulseLoader color={"#fff"} />;
