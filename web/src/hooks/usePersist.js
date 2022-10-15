@@ -7,7 +7,7 @@ const usePersist = () => {
 
   useEffect(() => {
     localStorage.setItem("persist", JSON.stringify(persist));
-  }, [persist, setPersist]);
+  }, [persist]);
 
   return [persist, setPersist];
 };
